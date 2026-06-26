@@ -1,3 +1,5 @@
 practicing renaming files
 
 extra content
+
+merge conflict
